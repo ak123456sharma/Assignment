@@ -1,0 +1,16 @@
+package add;
+
+
+
+public class ADD {
+
+public static void main(String[] arg)
+{
+System.out.println("addition");
+
+int x=10;
+int y=20;
+int result = x+y;
+System.out.println(result);
+}
+}
